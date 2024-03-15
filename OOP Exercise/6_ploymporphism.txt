@@ -1,0 +1,28 @@
+write 5 program exercise just concept on make blue print only of ploymorphism in python  
+ChatGPT
+Certainly! Here are five program exercises as blueprints for polymorphism in Python:
+
+Exercise 1: Shape Class Blueprint with Area Calculation
+Create a blueprint for a Shape class with a method calculate_area(). Implement subclasses like Circle, Rectangle, and Triangle, each 
+inheriting from the Shape class and providing their own calculate_area() method to calculate the area for specific shapes.
+
+Exercise 2: Animal Class Blueprint with Different Sounds
+Design a blueprint for an Animal class with a method make_sound(). Implement subclasses like Dog, Cat, and Bird, each inheriting from 
+the Animal class and providing their own make_sound() method to produce different sounds.
+
+Exercise 3: Employee Class Blueprint with Multiple Pay Methods
+Create a blueprint for an Employee class with a method calculate_pay(). Implement subclasses like SalariedEmployee, HourlyEmployee, 
+and CommissionedEmployee, each inheriting from the Employee class and providing their own calculate_pay() method for calculating pay 
+based on different payment structures.
+
+Exercise 4: File Reader Class Blueprint with Multiple Formats
+Design a blueprint for a FileReader class with a method read_file(). Implement subclasses like TextFileReader, CSVFileReader, and 
+JSONFileReader, each inheriting from the FileReader class and providing their own read_file() method to read files in different formats.
+
+Exercise 5: Math Operation Class Blueprint with Various Operations
+Create a blueprint for a MathOperation class with a method perform_operation(). Implement subclasses like Addition, Subtraction, and 
+Multiplication, each inheriting from the MathOperation class and providing their own perform_operation() method to carry out specific mathematical operations.
+
+These program exercises demonstrate polymorphism, where objects of different classes can be treated as objects of a common base 
+class and have different behaviors based on their specific class implementations. You can implement these concepts by defining the 
+classes and using polymorphism to perform different operations or calculations based on the specific subclass at runtime in Python code.

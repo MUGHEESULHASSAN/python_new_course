@@ -1,0 +1,31 @@
+write 5 program exercise just concept on make blue print only of method overriding in python 
+ChatGPT
+Certainly! Here are five program exercises as blueprints for method overriding in Python:
+
+Exercise 1: Animal Class Blueprint with Sound
+Create a blueprint for an Animal class with a method make_sound(). Implement subclasses like Dog, Cat, and Bird, each inheriting from the 
+Animal class and overriding the make_sound() method to produce different sounds.
+
+Exercise 2: Shape Class Blueprint with Area Calculation
+Design a blueprint for a Shape class with a method calculate_area(). Implement subclasses like Circle, Rectangle, and Triangle, each 
+inheriting from the Shape class and overriding the calculate_area() method to calculate the area for specific shapes.
+
+Exercise 3: Employee Class Blueprint with Pay Calculation
+Create a blueprint for an Employee class with a method calculate_pay(). Implement subclasses like SalariedEmployee, HourlyEmployee, and 
+CommissionedEmployee, each inheriting from the Employee class and overriding the calculate_pay() method to calculate pay based on different payment structures.
+
+Exercise 4: Parent Class Blueprint with Display Method
+Design a blueprint for a Parent class with a method display(). Implement subclasses like Child1 and Child2, each inheriting from the Parent 
+class and overriding the display() method to display specific information for each child class.
+
+Exercise 5: Calculator Class Blueprint with Addition Method
+Create a blueprint for a Calculator class with a method add(). Implement a subclass ScientificCalculator that inherits from the Calculator 
+class and overrides the add() method to add two numbers and return the result in scientific notation.
+
+These program exercises demonstrate method overriding, where a subclass provides a specific implementation for a method that is already defined 
+in its parent class. The overridden method in the subclass takes precedence over the method in the parent class. You can implement these concepts 
+by defining the classes and using method overriding to provide different implementations of the same method in Python code.
+
+
+
+

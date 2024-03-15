@@ -1,0 +1,31 @@
+write 5 program exercise just concept on make blue print only of method overloading in python 
+ChatGPT
+In Python, method overloading is achieved through default arguments and variable-length arguments. Here are five program exercises as 
+blueprints for method overloading in Python:
+
+Exercise 1: Calculator Class Blueprint with Add Method
+Create a blueprint for a Calculator class with a method add(). Implement method overloading in the add() method to allow adding two or more numbers together.
+
+Exercise 2: String Manipulation Class Blueprint with Concat Method
+Design a blueprint for a StringManipulation class with a method concat(). Implement method overloading in the concat() method to allow concatenating 
+two or more strings together.
+
+Exercise 3: Shape Class Blueprint with Area Calculation
+Create a blueprint for a Shape class with a method calculate_area(). Implement method overloading in the calculate_area() method to allow calculating 
+the area for different shapes, such as circle, rectangle, and triangle, each with its specific formula.
+
+Exercise 4: File Reader Class Blueprint with Multiple Formats
+Design a blueprint for a FileReader class with a method read_file(). Implement method overloading in the read_file() method to allow reading files in 
+different formats, such as text, CSV, and JSON, each with its specific implementation.
+
+Exercise 5: Employee Class Blueprint with Different Pay Methods
+Create a blueprint for an Employee class with a method calculate_pay(). Implement method overloading in the calculate_pay() method to allow calculating 
+pay for different types of employees, such as salaried, hourly, and commissioned, each with its specific payment structure.
+
+These program exercises demonstrate method overloading, where a single method is defined with the same name but different parameters or argument types. 
+The method can behave differently based on the number or type of arguments passed. You can implement these concepts by defining the classes and using 
+method overloading to provide different functionality based on the input parameters in Python code.
+
+
+
+
