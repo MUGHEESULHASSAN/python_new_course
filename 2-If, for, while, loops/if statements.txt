@@ -1,0 +1,29 @@
+1. **Nested Conditions:**
+   Write a Python program that takes three integers as input and prints the largest among them, considering all possible combinations of nested `if` statements.
+
+2. **Leap Year Checker:**
+   Create a program that checks if a given year is a leap year. Consider the rules for leap years (divisible by 4, but not divisible by 100 unless also divisible by 400).
+
+3. **Quadratic Equation Roots:**
+   Write a program that takes coefficients of a quadratic equation as input and prints the roots, considering both real and complex roots. Use the discriminant to determine the nature of the roots.
+
+4. **Grade Calculator:**
+   Develop a program that takes a numerical score as input and prints the corresponding letter grade using the traditional grading scale (A, B, C, D, F).
+
+5. **Temperature Converter:**
+   Build a program that converts temperature from Fahrenheit to Celsius and vice versa. Include user input for the temperature and the desired conversion direction.
+
+6. **Vowel Counter:**
+   Create a program that takes a sentence as input and counts the number of vowels (both lowercase and uppercase) using `if` statements.
+
+7. **Palindrome Checker:**
+   Write a Python program to check if a given string is a palindrome. Consider ignoring spaces, punctuation, and letter casing.
+
+8. **Password Strength Checker:**
+   Develop a program that checks the strength of a password based on various criteria, such as length, inclusion of uppercase and lowercase letters, numbers, and special characters.
+
+9. **Triangle Type Identifier:**
+   Implement a program that takes three sides of a triangle as input and classifies it as equilateral, isosceles, or scalene. Also, consider whether it forms a right-angled triangle.
+
+10. **Menu-driven Calculator:**
+    Build a calculator program that performs basic operations (addition, subtraction, multiplication, division) based on user input. Include error handling for division by zero and invalid operations.
