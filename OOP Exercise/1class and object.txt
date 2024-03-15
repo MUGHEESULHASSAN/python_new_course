@@ -1,0 +1,58 @@
+write 5 program exercise just concept on make blue print only of class and object in python  
+ChatGPT
+Sure! Here are five program exercises as blueprints for classes and objects in Python:
+
+Exercise 1: Vehicle Class Blueprint
+Create a blueprint for a Vehicle class with attributes like make, model, and year. Add methods to display vehicle details and calculate the age of the vehicle.
+
+Exercise 2: Employee Class Blueprint
+Design a blueprint for an Employee class with attributes such as name, employee_id, and salary. Implement methods to raise the employee's salary and display 
+their details.
+
+Exercise 3: Bank Customer Class Blueprint
+Create a blueprint for a BankCustomer class with attributes like name, account_number, and balance. Add methods for deposit, withdrawal, and displaying 
+the account detail
+
+Exercise 4: Music Player Class Blueprint
+Design a blueprint for a MusicPlayer class with attributes such as playlist, current_song, and volume. Implement methods to add songs to the playlist, 
+play/pause songs, and adjust the volume.
+
+Exercise 5: Online Store Item Class Blueprint
+Create a blueprint for an Item class with attributes like item_id, name, and price. Add methods for updating the item's price and displaying its details.
+
+These program exercises serve as blueprints or templates for creating classes and objects in Python. You can take these concepts and implement them in 
+code by defining the classes, adding the attributes and methods, and then creating instances of those classes to use the blueprint in real scenarios.
+
+
+User
+5 advance level
+ChatGPT
+Certainly! Here are five advanced-level program exercises as blueprints for classes and objects in Python:
+
+Exercise 1: Social Network User Class Blueprint
+Create a blueprint for a User class with attributes like username, email, and friends_list. Implement methods to add friends, remove friends, 
+and find mutual friends. Add a method to display user details.
+
+Exercise 2: Banking System Class Blueprint
+Design a blueprint for a BankAccount class with attributes like account_number, account_holder, and balance. Implement methods for deposit, 
+withdrawal, and displaying the account details. Add a method to generate monthly account statements.
+
+Exercise 3: Online Bookstore Class Blueprint
+Create a blueprint for a Book class with attributes like title, author, and price. Implement methods for checking book availability, adding/removing 
+books to/from the stock, and calculating the total value of the bookstore's inventory.
+
+Exercise 4: Game Character Class Blueprint
+Design a blueprint for a Character class with attributes like name, health_points, and experience. Implement methods for attacking other characters, 
+gaining experience, and leveling up. Add a method to display the character's stats.
+
+Exercise 5: Online Food Delivery Class Blueprint
+Create a blueprint for a Restaurant class with attributes like name, cuisine, and menu. Implement methods for adding/removing items to/from the menu 
+and calculating the total order value. Create a Customer class with attributes like name, address, and order. Implement methods for placing an order, 
+tracking the delivery status, and displaying the customer's details.
+
+These advanced-level program exercises offer more complex scenarios and concepts. They challenge you to think about how to design classes and their 
+interactions to model real-world systems effectively. Use these blueprints to create your classes and objects and bring them to life in Python code.
+
+
+
+

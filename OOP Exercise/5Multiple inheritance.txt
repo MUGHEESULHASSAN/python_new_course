@@ -1,0 +1,32 @@
+write 5 program exercise just concept on make blue print only of multiple inheritance in python  
+ChatGPT
+Certainly! Here are five program exercises as blueprints for multiple inheritance in Python:
+
+Exercise 1: Person and Skills Class Blueprint
+Create a blueprint for a Person class with attributes like name, age, and methods like get_details(). Design a separate Skills class 
+with attributes like programming, communication, and methods like get_skill_rating(). Implement a subclass Employee that inherits from 
+both Person and Skills classes to combine personal details and skill ratings.
+
+Exercise 2: Mobile Phone and Camera Class Blueprint
+Design a blueprint for a MobilePhone class with attributes like make, model, and methods like call(), text(). Create a separate Camera 
+class with attributes like resolution, zoom, and methods like take_photo(). Implement a subclass Smartphone that inherits from both MobilePhone 
+and Camera classes to combine mobile phone and camera functionalities.
+
+Exercise 3: Student and Course Class Blueprint
+Create a blueprint for a Student class with attributes like name, roll_number, and methods like get_details(). Design a separate Course class 
+with attributes like course_name, credits, and methods like get_course_info(). Implement a subclass EnrolledStudent that inherits from both 
+Student and Course classes to represent a student enrolled in a particular course.
+
+Exercise 4: Animal and Flyer Class Blueprint
+Design a blueprint for an Animal class with attributes like species, habitat, and methods like eat(), sleep(). Create a separate Flyer class 
+with attributes like wing_span, fly_speed, and methods like take_off(), land(). Implement a subclass Bird that inherits from both Animal and 
+Flyer classes to represent a bird species that can fly.
+
+Exercise 5: Employee and Department Class Blueprint
+Create a blueprint for an Employee class with attributes like name, employee_id, and methods like get_details(). Design a separate Department 
+class with attributes like department_name, supervisor, and methods like get_department_info(). Implement a subclass DepartmentEmployee that 
+inherits from both Employee and Department classes to represent an employee belonging to a specific department.
+
+These program exercises involve multiple inheritance, where a subclass inherits from two or more base classes. Multiple inheritance allows 
+combining features and behaviors from multiple classes to create more specialized and complex classes. You can implement these concepts by 
+defining the classes and using multiple inheritance to create the class hierarchy in Python code.

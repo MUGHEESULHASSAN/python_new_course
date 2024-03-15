@@ -1,0 +1,55 @@
+write 5 program exercise just concept on make blue print only of inheritance or single inheritance in python  
+ChatGPT
+Sure! Here are five program exercises as blueprints for single inheritance in Python:
+
+Exercise 1: Animal Class Blueprint
+Create a blueprint for an Animal class with methods like speak() and move(). Implement subclasses like Dog, Cat, and Bird, each inheriting 
+from the Animal class and overriding the speak() method with specific animal sounds.
+
+Exercise 2: Vehicle Class Blueprint
+Design a blueprint for a Vehicle class with attributes like make, model, and methods like start(), stop(), and drive(). 
+Implement subclasses like Car, Bike, and Truck, each inheriting from the Vehicle class and adding specific functionality.
+
+Exercise 3: Shape Class Blueprint
+Create a blueprint for a Shape class with methods like area() and perimeter(). Implement subclasses like Circle, Rectangle, and 
+Triangle, each inheriting from the Shape class and overriding the methods to calculate specific shapes' areas and perimeters.
+
+Exercise 4: Employee Class Blueprint
+Design a blueprint for an Employee class with attributes like name, employee_id, and methods like get_salary(). Implement subclasses 
+like Manager, Developer, and SalesPerson, each inheriting from the Employee class and providing different salary calculation methods.
+
+Exercise 5: Electronic Devices Class Blueprint
+Create a blueprint for an ElectronicDevice class with attributes like name, power_rating, and methods like turn_on(), turn_off(). 
+Implement subclasses like Television, Laptop, and Refrigerator, each inheriting from the ElectronicDevice class and adding specific functionality.
+
+These program exercises serve as blueprints for using single inheritance to create classes with shared attributes and 
+methods in a hierarchical manner. You can implement these concepts by defining the classes and using inheritance to create 
+subclasses that extend the functionality of the base class.
+
+
+Certainly! Here are five advanced-level program exercises as blueprints for single inheritance in Python:
+
+Exercise 1: Geometric Shape Class Blueprint
+Create a blueprint for a Shape class with methods like area() and perimeter(). Implement subclasses like Rectangle, 
+Circle, and Triangle, each inheriting from the Shape class and providing methods to calculate the area and perimeter for specific shapes.
+
+Exercise 2: Banking System with Multiple Account Types
+Design a blueprint for a BankAccount class with attributes like account_number, account_holder, and balance. 
+Implement subclasses like SavingsAccount and CheckingAccount, each inheriting from the BankAccount class and 
+adding specific functionality like interest calculation and checkbook management.
+
+Exercise 3: Online Store Product Hierarchy
+Create a blueprint for a Product class with attributes like product_id, name, and price. Implement subclasses 
+like Electronics, Clothing, and Books, each inheriting from the Product class and adding specific attributes and methods related to the respective product types.
+
+Exercise 4: School Management System
+Design a blueprint for a Person class with attributes like name, age, and methods like get_details(). Implement subclasses 
+like Student and Teacher, each inheriting from the Person class and providing additional methods like get_grades() for students and teach_subject() for teachers.
+
+Exercise 5: Online Food Delivery System
+Create a blueprint for a Restaurant class with attributes like name, cuisine, and methods like get_menu(). Implement subclasses 
+like FastFoodRestaurant and FineDiningRestaurant, each inheriting from the Restaurant class and adding specific menu items and features.
+
+These advanced-level program exercises involve more complex hierarchies and functionality in the subclasses. You can use 
+these blueprints to implement single inheritance in Python, creating a hierarchy of classes that share attributes and 
+methods while providing specialized behavior in subclasses.
