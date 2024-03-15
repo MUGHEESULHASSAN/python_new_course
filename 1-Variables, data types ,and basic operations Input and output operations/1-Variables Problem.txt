@@ -1,0 +1,70 @@
+Certainly! Here are 20 Python exercise questions focusing on the concept of variables, distributed across basic, intermediate, and advanced levels:
+
+### Basic Level:
+
+1. **Variable Declaration:**
+   - Declare two variables, `x` and `y`, and assign them values 5 and 8, respectively. Print their sum.
+
+2. **Variable Types:**
+   - Declare a variable `my_var` with a value of 3.14. Determine its type and print the result.
+
+3. **Variable Swap:**
+   - Swap the values of two variables, `a` and `b`. Print the updated values.
+
+4. **String Concatenation:**
+   - Create two string variables, `first_name` and `last_name`. Concatenate them to form a full name and print it.
+
+5. **Variable Reassignment:**
+   - Declare a variable `count` and assign it an initial value of 10. Reassign the variable with a new value and print it.
+
+### Intermediate Level:
+
+6. **Multiple Assignments:**
+   - Assign values 3, 5, and 7 to variables `a`, `b`, and `c` in a single line. Print their product.
+
+7. **Floating-Point Precision:**
+   - Declare a variable `pi` with the value of π (pi) rounded to 5 decimal places. Print the result.
+
+8. **Boolean Variables:**
+   - Declare a variable `is_python_fun` and assign it a boolean value. Print a statement based on its value.
+
+9. **Variable Scope:**
+   - Create a function that takes a parameter and prints the variable both inside and outside the function.
+
+10. **List Variables:**
+    - Declare a list variable `fruits` containing three fruit names. Print the list.
+
+### Advanced Level:
+
+11. **Tuple Unpacking:**
+    - Create a tuple with three values and unpack them into three variables. Print the variables.
+
+12. **Dictionary Manipulation:**
+    - Create a dictionary with at least three key-value pairs representing student names and their ages. Print the dictionary.
+
+13. **Global vs Local Variables:**
+    - Declare a global variable and a function that modifies a local variable with the same name. Print both variables.
+
+14. **Variable Annotations:**
+    - Use variable annotations to declare a variable `population` with the value of 7 billion. Print the value.
+
+15. **Variable Shadowing:**
+    - Create a variable with a global scope. Inside a function, create a variable with the same name. Print both variables.
+
+16. **Multiple Variable Swaps:**
+    - Swap the values of three variables (`x`, `y`, `z`) without using temporary variables. Print the updated values.
+
+17. **Variable Augmented Assignment:**
+    - Declare a variable `counter` and increment it using the augmented assignment operator. Print the result.
+
+18. **Enumerate and Variables:**
+    - Use the `enumerate` function to iterate over a list of animals and print both the 
+    index and the animal name.
+
+19. **Variable Deletion:**
+    - Declare a variable `temp` with a value. Delete the variable using the `del` keyword. 
+    Attempt to print it afterward.
+
+20. **Function as a Variable:**
+    - Create a function that calculates the square of a number. Assign the function to a
+     variable and use it to calculate the square of 9.

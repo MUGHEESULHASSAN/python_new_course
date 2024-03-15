@@ -1,0 +1,66 @@
+
+### Beginner Level:
+
+1. **Question 1:**
+   Create a variable `num` and assign an integer value to it. Print the value and its data type.
+
+2. **Question 2:**
+   Declare a string variable `message` and concatenate it with another string, then print the result.
+
+3. **Question 3:**
+   Create a list containing three different data types (int, float, str). Print the list.
+
+4. **Question 4:**
+   Given a float number `height`, convert it to an integer and print the result.
+
+5. **Question 5:**
+   Declare a tuple with three elements: an integer, a float, and a string. Print the tuple.
+
+### Intermediate Level:
+
+6. **Question 6:**
+   Write a program that takes user input for their age and prints it as an integer.
+
+7. **Question 7:**
+   Create a dictionary representing a person with keys for 'name', 'age', and 'city'. Print the dictionary.
+
+8. **Question 8:**
+   Given a list of numbers, find the sum and average of all the elements.
+
+9. **Question 9:**
+   Write a function that takes a string as input and returns the reversed version of the string.
+
+10. **Question 10:**
+    Create a set with some duplicate elements. Remove duplicates and print the updated set.
+
+### Advanced Level:
+
+11. **Question 11:**
+    Write a program that swaps the values of two variables without using a temporary variable.
+
+12. **Question 12:**
+    Implement a stack data structure using a list. Include functions for push and pop operations.
+
+13. **Question 13:**
+    Create a class representing a geometric shape with methods to calculate area and perimeter.
+
+14. **Question 14:**
+    Write a function that takes a list of numbers and returns a new list containing only the prime numbers.
+
+15. **Question 15:**
+    Implement a generator function that yields Fibonacci numbers up to a given limit.
+
+16. **Question 16:**
+    Create a program that reads a CSV file and stores its data in a dictionary where the keys are the column names.
+
+17. **Question 17:**
+    Write a decorator that logs the time taken by a function to execute.
+
+18. **Question 18:**
+    Implement a binary search algorithm to find an element in a sorted list.
+
+19. **Question 19:**
+    Create a context manager that measures the time taken by a block of code to execute.
+
+20. **Question 20:**
+    Write a program that reads JSON data from a file, modifies it by adding a new key-value pair, and then writes it back to the file.

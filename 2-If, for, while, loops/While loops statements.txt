@@ -1,0 +1,29 @@
+1. **Collatz Conjecture:**
+   Write a Python program that takes a starting number as input and applies the Collatz Conjecture, printing the sequence until it reaches 1, using a `while` loop.
+
+2. **Greatest Common Divisor (GCD) Finder:**
+   Create a program that calculates the GCD of two numbers using Euclid's algorithm and a `while` loop.
+
+3. **Exponential Growth Simulation:**
+   Implement a program that simulates exponential growth. Allow the user to input the initial population, growth rate, and the number of years, using a `while` loop.
+
+4. **Interactive Number Guessing Game:**
+   Develop a number guessing game where the user has to guess a randomly generated number. Provide hints and continue the game using a `while` loop until the correct number is guessed.
+
+5. **Binary to Decimal Converter:**
+   Write a program that takes a binary number as input and converts it to decimal using a `while` loop.
+
+6. **Palindrome Detector:**
+   Create a program that checks if a given string is a palindrome using a `while` loop. Consider ignoring spaces, punctuation, and letter casing.
+
+7. **Square Root Estimation:**
+   Implement a program that estimates the square root of a given number using the Babylonian method and a `while` loop.
+
+8. **FizzBuzz with a Twist:**
+   Write a program that prints the numbers from 1 to 100, but for multiples of 3, print "Fizz," for multiples of 5, print "Buzz," and for numbers that are multiples of both 3 and 5, print "FizzBuzz." Use a `while` loop.
+
+9. **Pattern Printer:**
+   Develop a program that prints a pyramid pattern using a `while` loop. The height of the pyramid should be determined by user input.
+
+10. **Prime Number Generator:**
+    Create a Python program that generates and prints all prime numbers within a given range using a `while` loop.
